@@ -22,12 +22,12 @@ export const UI = () => {
     []
   );
   return (
-    <AView className="flex-1 p-10">
+    <AView className="flex-1 bg-gray">
       <ALabel
         text={"Hello, world! You have clicked " + count + " times!"}
         className="w-full h-100 text-center bg-blue vertical-center"
       />
-      <GView className="flex flex-row w-full justify-center items-center gap-50">
+      <GView className="flex flex-row w-full justify-center items-center gap-50 flex-1">
         <AImage
           from={from}
           animate={animate}
@@ -51,14 +51,16 @@ export const UI = () => {
           </CommonButton>
         </AView>
       </GView>
-      <GAnim
-        frameDuration={1 / 30}
-        playMode={PlayMode.LOOP}
-        atlasName="murata"
-        regionName="murataA_Idle"
-        className="w-500 h-500 -mt-200"
-        mode={ImageMode.Stretch}
-      />
+      <GView className="h-200 w-full bg-red">
+        <GAnim
+          frameDuration={1 / 30}
+          playMode={PlayMode.LOOP}
+          atlasName="murata"
+          regionName="murataA_Idle"
+          className="w-500 h-500 -mt-200"
+          mode={ImageMode.Stretch}
+        />
+      </GView>
     </AView>
   );
 };
