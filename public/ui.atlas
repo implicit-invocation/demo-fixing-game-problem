@@ -1,0 +1,1320 @@
+
+ui.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+yellow_short_button
+  rotate: false
+  xy: 0, 0
+  size: 370, 154
+  orig: 374, 158
+  offset: 2, 2
+  index: -1
+yellow_long_button
+  rotate: false
+  xy: 0, 164
+  size: 497, 131
+  orig: 497, 131
+  offset: 0, 0
+  index: -1
+yellow-small-button
+  rotate: false
+  xy: 0, 305
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+yellow-button-small
+  rotate: false
+  xy: 0, 396
+  size: 328, 116
+  orig: 328, 116
+  offset: 0, 0
+  index: -1
+yellow-button-medium
+  rotate: false
+  xy: 380, 0
+  size: 455, 142
+  orig: 455, 142
+  offset: 0, 0
+  index: -1
+x-button
+  rotate: false
+  xy: 845, 0
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+wallet-holder
+  rotate: false
+  xy: 0, 522
+  size: 735, 102
+  orig: 735, 102
+  offset: 0, 0
+  index: -1
+view-button
+  rotate: false
+  xy: 338, 305
+  size: 406, 124
+  orig: 406, 124
+  offset: 0, 0
+  index: -1
+victory
+  rotate: false
+  xy: 754, 152
+  size: 256, 220
+  orig: 256, 220
+  offset: 0, 0
+  index: -1
+top3
+  rotate: false
+  xy: 507, 152
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 616, 152
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+top1
+  rotate: false
+  xy: 754, 382
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+token
+  rotate: false
+  xy: 745, 490
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+token-3d
+  rotate: false
+  xy: 0, 744
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+toggle-bg
+  rotate: false
+  xy: 0, 634
+  size: 204, 76
+  orig: 204, 76
+  offset: 0, 0
+  index: -1
+toast-bg
+  rotate: false
+  xy: 338, 439
+  size: 234, 73
+  orig: 234, 73
+  offset: 0, 0
+  index: -1
+ticket
+  rotate: false
+  xy: 214, 634
+  size: 485, 496
+  orig: 485, 496
+  offset: 0, 0
+  index: -1
+ticked
+  rotate: false
+  xy: 582, 439
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+text-emote-top
+  rotate: false
+  xy: 863, 382
+  size: 145, 76
+  orig: 145, 76
+  offset: 0, 0
+  index: -1
+text-emote-bottom
+  rotate: false
+  xy: 0, 868
+  size: 145, 76
+  orig: 145, 76
+  offset: 0, 0
+  index: -1
+tag-item
+  rotate: false
+  xy: 0, 954
+  size: 123, 153
+  orig: 123, 153
+  offset: 0, 0
+  index: -1
+surrender-icon
+  rotate: false
+  xy: 133, 954
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+soul_normal
+  rotate: false
+  xy: 0, 1140
+  size: 250, 365
+  orig: 250, 365
+  offset: 0, 0
+  index: -1
+soul_genesis
+  rotate: false
+  xy: 0, 1515
+  size: 250, 365
+  orig: 250, 365
+  offset: 0, 0
+  index: -1
+skill-invoke-confirm-button
+  rotate: false
+  xy: 950, 0
+  size: 505, 138
+  orig: 505, 138
+  offset: 0, 0
+  index: -1
+skill-invoke-close-button
+  rotate: false
+  xy: 0, 1890
+  size: 505, 138
+  orig: 505, 138
+  offset: 0, 0
+  index: -1
+skill-icon-use-button
+  rotate: false
+  xy: 1465, 0
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+skill-icon-placeholder
+  rotate: false
+  xy: 1747, 0
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+skill-icon-gold-placeholder
+  rotate: false
+  xy: 1840, 0
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+skill-detail-rate-up-button
+  rotate: false
+  xy: 1465, 93
+  size: 447, 165
+  orig: 447, 165
+  offset: 0, 0
+  index: -1
+skill-detail-close-button
+  rotate: false
+  xy: 260, 1140
+  size: 439, 165
+  orig: 439, 165
+  offset: 0, 0
+  index: -1
+skill-card-placeholder
+  rotate: false
+  xy: 1020, 148
+  size: 259, 286
+  orig: 259, 286
+  offset: 0, 0
+  index: -1
+shop-category-inactive
+  rotate: false
+  xy: 260, 1315
+  size: 269, 135
+  orig: 269, 135
+  offset: 0, 0
+  index: -1
+shop-category-active
+  rotate: false
+  xy: 260, 1460
+  size: 269, 135
+  orig: 269, 135
+  offset: 0, 0
+  index: -1
+shard-event-banner
+  rotate: false
+  xy: 260, 1605
+  size: 419, 110
+  orig: 419, 110
+  offset: 0, 0
+  index: -1
+setting-icon
+  rotate: false
+  xy: 133, 1021
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+setting-button
+  rotate: false
+  xy: 1933, 0
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+seasonalbox
+  rotate: false
+  xy: 689, 1315
+  size: 887, 680
+  orig: 887, 680
+  offset: 0, 0
+  index: -1
+score-wrapper
+  rotate: false
+  xy: 260, 1725
+  size: 300, 114
+  orig: 300, 114
+  offset: 0, 0
+  index: -1
+rp_icon
+  rotate: false
+  xy: 133, 1079
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+roster-index-unselect
+  rotate: false
+  xy: 570, 1725
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+roster-index-select
+  rotate: false
+  xy: 570, 1841
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 1289, 268
+  size: 516, 196
+  orig: 516, 196
+  offset: 0, 0
+  index: -1
+red-dot
+  rotate: false
+  xy: 1922, 104
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+red-button
+  rotate: false
+  xy: 709, 744
+  size: 483, 138
+  orig: 483, 138
+  offset: 0, 0
+  index: -1
+ready-banner
+  rotate: false
+  xy: 999, 468
+  size: 277, 73
+  orig: 277, 73
+  offset: 0, 0
+  index: -1
+rate-up-button
+  rotate: false
+  xy: 1815, 268
+  size: 197, 72
+  orig: 197, 72
+  offset: 0, 0
+  index: -1
+rare_hero
+  rotate: false
+  xy: 1815, 350
+  size: 215, 252
+  orig: 215, 252
+  offset: 0, 0
+  index: -1
+quest-logo
+  rotate: false
+  xy: 999, 551
+  size: 184, 169
+  orig: 184, 170
+  offset: 0, 0
+  index: -1
+purple_long_button
+  rotate: false
+  xy: 1286, 474
+  size: 497, 131
+  orig: 497, 131
+  offset: 0, 0
+  index: -1
+purchase-button
+  rotate: false
+  xy: 1586, 615
+  size: 370, 154
+  orig: 370, 154
+  offset: 0, 0
+  index: -1
+profile
+  rotate: false
+  xy: 1202, 551
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+premium_banner
+  rotate: false
+  xy: 1193, 624
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+point-reward
+  rotate: false
+  xy: 1202, 779
+  size: 611, 96
+  orig: 611, 96
+  offset: 0, 0
+  index: -1
+player-score-wrapper
+  rotate: false
+  xy: 1586, 885
+  size: 314, 114
+  orig: 314, 114
+  offset: 0, 0
+  index: -1
+perk
+  rotate: false
+  xy: 651, 439
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+optional-icon
+  rotate: false
+  xy: 515, 1957
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+optional-holder
+  rotate: false
+  xy: 1202, 885
+  size: 326, 226
+  orig: 326, 226
+  offset: 0, 0
+  index: -1
+open-emote-disable
+  rotate: false
+  xy: 1202, 714
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 1910, 779
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 1910, 905
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+navigator-unfocus
+  rotate: false
+  xy: 1538, 1031
+  size: 234, 232
+  orig: 234, 232
+  offset: 0, 0
+  index: -1
+navigator-focused
+  rotate: false
+  xy: 1782, 1031
+  size: 234, 269
+  orig: 234, 269
+  offset: 0, 0
+  index: -1
+mysterybox
+  rotate: false
+  xy: 709, 892
+  size: 199, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+monthly-sign-in-icon
+  rotate: false
+  xy: 155, 720
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+modal_ribbon
+  rotate: false
+  xy: 709, 1121
+  size: 519, 144
+  orig: 519, 144
+  offset: 0, 0
+  index: -1
+locked-skill-slot
+  rotate: false
+  xy: 1238, 1121
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+locked-skill-slot-6
+  rotate: false
+  xy: 1586, 1273
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 607, 2005
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+lock-button
+  rotate: false
+  xy: 1403, 615
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 646, 1957
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+legend_hero
+  rotate: false
+  xy: 1760, 1310
+  size: 215, 252
+  orig: 215, 252
+  offset: 0, 0
+  index: -1
+journey-progress-line
+  rotate: false
+  xy: 1271, 714
+  size: 6, 55
+  orig: 6, 55
+  offset: 0, 0
+  index: -1
+join-button
+  rotate: false
+  xy: 1586, 1572
+  size: 406, 124
+  orig: 406, 124
+  offset: 0, 0
+  index: -1
+item-holder
+  rotate: false
+  xy: 1586, 1706
+  size: 259, 332
+  orig: 259, 332
+  offset: 0, 0
+  index: -1
+ingame-coin
+  rotate: false
+  xy: 1289, 148
+  size: 96, 102
+  orig: 98, 102
+  offset: 1, 0
+  index: -1
+information-button
+  rotate: false
+  xy: 1823, 779
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+info_button
+  rotate: false
+  xy: 1395, 148
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+increase-rate
+  rotate: false
+  xy: 125, 774
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+image-emote-top
+  rotate: false
+  xy: 1586, 1447
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+image-emote-bottom
+  rotate: false
+  xy: 1412, 1121
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+icon_rank
+  rotate: false
+  xy: 539, 1315
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: 2
+icon-tick
+  rotate: false
+  xy: 539, 1423
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+icon-gold
+  rotate: false
+  xy: 1855, 1706
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+history-icon
+  rotate: false
+  xy: 1287, 714
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+hero-star
+  rotate: false
+  xy: 1855, 1850
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+hero-star-sm
+  rotate: false
+  xy: 2026, 1031
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+hero-detail-use-button
+  rotate: false
+  xy: 918, 892
+  size: 272, 97
+  orig: 272, 97
+  offset: 0, 0
+  index: -1
+hero-detail-upgrade-button
+  rotate: false
+  xy: 918, 999
+  size: 272, 97
+  orig: 272, 97
+  offset: 0, 0
+  index: -1
+energy
+  rotate: false
+  xy: 1969, 1850
+  size: 77, 83
+  orig: 78, 84
+  offset: 1, 0
+  index: -1
+emote-mute
+  rotate: false
+  xy: 1395, 216
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+emote-button
+  rotate: false
+  xy: 1985, 1310
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+edit-roster-name-button
+  rotate: false
+  xy: 1682, 1447
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+decrease-rate
+  rotate: false
+  xy: 1412, 1232
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+deactive_star
+  rotate: false
+  xy: 1486, 1232
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+chest_unavailable
+  rotate: false
+  xy: 539, 1527
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+chest_opened
+  rotate: false
+  xy: 1855, 1960
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 1974, 1943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+buy-energy
+  rotate: false
+  xy: 1985, 1375
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+button_muted_delay
+  rotate: false
+  xy: 1985, 1450
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+ads-icon
+  rotate: false
+  xy: 1966, 612
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+active_star
+  rotate: false
+  xy: 1533, 615
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Muted_button
+  rotate: false
+  xy: 1966, 707
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Muted
+  rotate: false
+  xy: 688, 2005
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Mute
+  rotate: false
+  xy: 748, 2005
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+
+ui_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lootbox
+  rotate: false
+  xy: 0, 0
+  size: 566, 450
+  orig: 566, 450
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 0, 460
+  size: 751, 398
+  orig: 751, 398
+  offset: 0, 0
+  index: -1
+login-text-input
+  rotate: false
+  xy: 0, 868
+  size: 823, 107
+  orig: 823, 107
+  offset: 0, 0
+  index: -1
+item-holder-focus
+  rotate: false
+  xy: 761, 0
+  size: 251, 324
+  orig: 251, 324
+  offset: 0, 0
+  index: -1
+invoke-button
+  rotate: false
+  xy: 761, 334
+  size: 317, 138
+  orig: 317, 138
+  offset: 0, 0
+  index: -1
+inventory-navigator-unfocus
+  rotate: false
+  xy: 1022, 0
+  size: 352, 119
+  orig: 352, 119
+  offset: 0, 0
+  index: -1
+inventory-navigator-focused
+  rotate: false
+  xy: 1022, 129
+  size: 405, 172
+  orig: 405, 172
+  offset: 0, 0
+  index: -1
+icon-gem
+  rotate: false
+  xy: 761, 482
+  size: 246, 318
+  orig: 250, 322
+  offset: 2, 1
+  index: -1
+host-button
+  rotate: false
+  xy: 1437, 0
+  size: 406, 124
+  orig: 406, 124
+  offset: 0, 0
+  index: -1
+highest-trophies-placeholder
+  rotate: false
+  xy: 1437, 134
+  size: 315, 92
+  orig: 315, 92
+  offset: 0, 0
+  index: -1
+hero-detail-revoke-button
+  rotate: false
+  xy: 1762, 134
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+hero-card-detail-button
+  rotate: false
+  xy: 1762, 225
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+green_long_button
+  rotate: false
+  xy: 1088, 311
+  size: 624, 125
+  orig: 624, 125
+  offset: 0, 0
+  index: -1
+green_button
+  rotate: false
+  xy: 1088, 446
+  size: 516, 196
+  orig: 516, 196
+  offset: 0, 0
+  index: -1
+green-small-button
+  rotate: false
+  xy: 1722, 316
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+green-button-medium
+  rotate: false
+  xy: 1017, 652
+  size: 455, 142
+  orig: 455, 142
+  offset: 0, 0
+  index: -1
+grand_tour_button
+  rotate: false
+  xy: 1482, 652
+  size: 475, 246
+  orig: 516, 246
+  offset: 0, 0
+  index: -1
+goldpouch
+  rotate: false
+  xy: 1017, 804
+  size: 272, 313
+  orig: 272, 313
+  offset: 0, 0
+  index: -1
+goldchest
+  rotate: false
+  xy: 1299, 908
+  size: 426, 367
+  orig: 426, 367
+  offset: 0, 0
+  index: -1
+goldbag
+  rotate: false
+  xy: 0, 1285
+  size: 374, 402
+  orig: 374, 402
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 0, 1127
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+gold-button
+  rotate: false
+  xy: 1722, 407
+  size: 317, 138
+  orig: 317, 138
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 0, 1697
+  size: 246, 318
+  orig: 250, 322
+  offset: 2, 1
+  index: -1
+epic_hero
+  rotate: false
+  xy: 135, 985
+  size: 215, 252
+  orig: 215, 252
+  offset: 0, 0
+  index: -1
+energy-icon
+  rotate: false
+  xy: 360, 985
+  size: 250, 237
+  orig: 250, 237
+  offset: 0, 0
+  index: -1
+enemy-banner
+  rotate: false
+  xy: 256, 1697
+  size: 993, 228
+  orig: 993, 228
+  offset: 0, 0
+  index: -1
+empty_avatar
+  rotate: false
+  xy: 833, 810
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+empty-skill-slot–6
+  rotate: false
+  xy: 833, 982
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+empty-skill-slot
+  rotate: false
+  xy: 576, 0
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+emotes-holder
+  rotate: false
+  xy: 384, 1285
+  size: 332, 136
+  orig: 332, 136
+  offset: 0, 0
+  index: -1
+edit-name-placeholder
+  rotate: false
+  xy: 620, 1156
+  size: 583, 116
+  orig: 583, 116
+  offset: 0, 0
+  index: -1
+duel-button
+  rotate: false
+  xy: 726, 1282
+  size: 516, 196
+  orig: 516, 196
+  offset: 0, 0
+  index: -1
+duel-battle
+  rotate: false
+  xy: 384, 1488
+  size: 763, 196
+  orig: 767, 200
+  offset: 2, 2
+  index: -1
+draw
+  rotate: false
+  xy: 1735, 908
+  size: 248, 208
+  orig: 248, 208
+  offset: 0, 0
+  index: -1
+disabled_combine
+  rotate: false
+  xy: 256, 1935
+  size: 259, 101
+  orig: 259, 101
+  offset: 0, 0
+  index: -1
+defeat
+  rotate: false
+  xy: 1735, 1126
+  size: 248, 208
+  orig: 248, 208
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 1157, 1488
+  size: 254, 177
+  orig: 254, 177
+  offset: 0, 0
+  index: -1
+crystaltinypack
+  rotate: false
+  xy: 1259, 1675
+  size: 423, 354
+  orig: 423, 354
+  offset: 0, 0
+  index: -1
+crystalsmallpack
+  rotate: false
+  xy: 1421, 1344
+  size: 372, 318
+  orig: 372, 318
+  offset: 0, 0
+  index: -1
+crystallargepack
+  rotate: false
+  xy: 1692, 1672
+  size: 272, 314
+  orig: 272, 314
+  offset: 0, 0
+  index: -1
+copy-button
+  rotate: false
+  xy: 1614, 446
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+common_hero
+  rotate: false
+  xy: 1803, 1344
+  size: 215, 252
+  orig: 215, 252
+  offset: 0, 0
+  index: -1
+common_banner
+  rotate: false
+  xy: 1803, 1606
+  size: 200, 54
+  orig: 200, 54
+  offset: 0, 0
+  index: -1
+comming-soon-banner
+  rotate: false
+  xy: 525, 1935
+  size: 419, 110
+  orig: 419, 110
+  offset: 0, 0
+  index: -1
+combine
+  rotate: false
+  xy: 954, 1935
+  size: 259, 101
+  orig: 259, 101
+  offset: 0, 0
+  index: -1
+chest_glow
+  rotate: false
+  xy: 1853, 0
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+chest_available
+  rotate: false
+  xy: 1614, 562
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+button_day_past
+  rotate: false
+  xy: 1252, 1285
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+button_day_next
+  rotate: false
+  xy: 576, 174
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+button_day_current
+  rotate: false
+  xy: 576, 289
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+button_burger
+  rotate: false
+  xy: 0, 985
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+back-button
+  rotate: false
+  xy: 620, 985
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+
+ui_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+crystalmedium
+  rotate: false
+  xy: 0, 0
+  size: 398, 262
+  orig: 398, 262
+  offset: 0, 0
+  index: -1
+crystalgigantic
+  rotate: false
+  xy: 408, 0
+  size: 450, 370
+  orig: 450, 370
+  offset: 0, 0
+  index: -1
+crystalextralarge
+  rotate: false
+  xy: 0, 272
+  size: 375, 414
+  orig: 375, 414
+  offset: 0, 0
+  index: -1
+challenger_button
+  rotate: false
+  xy: 0, 696
+  size: 262, 244
+  orig: 262, 244
+  offset: 0, 0
+  index: 2
+challenger_button
+  rotate: false
+  xy: 272, 696
+  size: 262, 244
+  orig: 262, 244
+  offset: 0, 0
+  index: 1
+cardpack
+  rotate: false
+  xy: 385, 380
+  size: 200, 166
+  orig: 200, 167
+  offset: 0, 1
+  index: -1
+button_quest
+  rotate: false
+  xy: 595, 380
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+button_duel
+  rotate: false
+  xy: 544, 579
+  size: 321, 197
+  orig: 321, 197
+  offset: 0, 0
+  index: -1
+button_d_blue
+  rotate: false
+  xy: 544, 786
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+button_battle_pass
+  rotate: false
+  xy: 857, 380
+  size: 848, 189
+  orig: 848, 189
+  offset: 0, 0
+  index: -1
+button_C_yellow
+  rotate: false
+  xy: 1715, 0
+  size: 252, 129
+  orig: 252, 129
+  offset: 0, 0
+  index: -1
+button_C_red
+  rotate: false
+  xy: 1715, 139
+  size: 252, 129
+  orig: 252, 129
+  offset: 0, 0
+  index: -1
+button_C_green
+  rotate: false
+  xy: 1715, 278
+  size: 252, 129
+  orig: 252, 129
+  offset: 0, 0
+  index: -1
+button_C_blue
+  rotate: false
+  xy: 1715, 417
+  size: 252, 129
+  orig: 252, 129
+  offset: 0, 0
+  index: -1
+bonusrp-event-banner
+  rotate: false
+  xy: 0, 950
+  size: 419, 110
+  orig: 419, 110
+  offset: 0, 0
+  index: -1
+blue-button
+  rotate: false
+  xy: 868, 0
+  size: 763, 196
+  orig: 763, 196
+  offset: 0, 0
+  index: -1
+big_green_button
+  rotate: false
+  xy: 868, 206
+  size: 370, 154
+  orig: 370, 154
+  offset: 0, 0
+  index: -1
+big_gray_button
+  rotate: false
+  xy: 1248, 206
+  size: 370, 154
+  orig: 370, 154
+  offset: 0, 0
+  index: -1
+big-yellow
+  rotate: false
+  xy: 875, 579
+  size: 516, 196
+  orig: 520, 200
+  offset: 2, 2
+  index: -1
+battle-button
+  rotate: false
+  xy: 875, 785
+  size: 763, 196
+  orig: 767, 200
+  offset: 2, 2
+  index: -1
+basiclootbox
+  rotate: false
+  xy: 1401, 579
+  size: 200, 174
+  orig: 200, 174
+  offset: 0, 0
+  index: -1
+back_button
+  rotate: false
+  xy: 1648, 579
+  size: 370, 154
+  orig: 370, 154
+  offset: 0, 0
+  index: -1
+back-to-menu
+  rotate: false
+  xy: 0, 1070
+  size: 516, 196
+  orig: 516, 196
+  offset: 0, 0
+  index: -1
+avatar_defeated
+  rotate: false
+  xy: 526, 985
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+ascend-holder
+  rotate: false
+  xy: 0, 1276
+  size: 449, 632
+  orig: 449, 632
+  offset: 0, 0
+  index: -1
+add
+  rotate: false
+  xy: 685, 985
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+Shard
+  rotate: false
+  xy: 526, 1144
+  size: 134, 147
+  orig: 137, 151
+  offset: 1, 3
+  index: -1
+Claimed
+  rotate: false
+  xy: 0, 1918
+  size: 274, 106
+  orig: 274, 106
+  offset: 0, 0
+  index: -1
+Claim
+  rotate: false
+  xy: 284, 1918
+  size: 274, 106
+  orig: 274, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2552 @@
+
+character_murata.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+murataA_Attack
+  rotate: false
+  xy: 345, 514
+  size: 178, 150
+  orig: 560, 560
+  offset: 201, 136
+  index: 85
+murataA_Attack
+  rotate: false
+  xy: 1115, 505
+  size: 161, 152
+  orig: 560, 560
+  offset: 210, 134
+  index: 84
+murataA_Attack
+  rotate: false
+  xy: 144, 363
+  size: 183, 155
+  orig: 560, 560
+  offset: 194, 135
+  index: 86
+murataA_Attack
+  rotate: false
+  xy: 883, 348
+  size: 177, 158
+  orig: 560, 560
+  offset: 208, 127
+  index: 83
+murataA_Attack
+  rotate: false
+  xy: 1724, 133
+  size: 296, 167
+  orig: 560, 560
+  offset: 58, 116
+  index: 77
+murataA_Cast
+  rotate: false
+  xy: 681, 351
+  size: 200, 157
+  orig: 560, 560
+  offset: 172, 131
+  index: 116
+murataA_Cast
+  rotate: false
+  xy: 1062, 345
+  size: 208, 158
+  orig: 560, 560
+  offset: 171, 131
+  index: 115
+murataA_Cast
+  rotate: false
+  xy: 1562, 309
+  size: 210, 160
+  orig: 560, 560
+  offset: 175, 130
+  index: 114
+murataA_Cast
+  rotate: false
+  xy: 369, 190
+  size: 195, 162
+  orig: 560, 560
+  offset: 173, 132
+  index: 117
+murataA_Cast
+  rotate: false
+  xy: 1512, 142
+  size: 210, 165
+  orig: 560, 560
+  offset: 179, 130
+  index: 113
+murataA_Die
+  rotate: false
+  xy: 1503, 1214
+  size: 163, 141
+  orig: 560, 560
+  offset: 209, 128
+  index: 175
+murataA_Die
+  rotate: false
+  xy: 1500, 1070
+  size: 158, 142
+  orig: 560, 560
+  offset: 210, 127
+  index: 174
+murataA_Die
+  rotate: false
+  xy: 1500, 925
+  size: 154, 143
+  orig: 560, 560
+  offset: 210, 126
+  index: 173
+murataA_Die
+  rotate: false
+  xy: 538, 663
+  size: 150, 144
+  orig: 560, 560
+  offset: 210, 125
+  index: 172
+murataA_Die
+  rotate: false
+  xy: 690, 663
+  size: 151, 144
+  orig: 560, 560
+  offset: 210, 125
+  index: 169
+murataA_Die
+  rotate: false
+  xy: 843, 662
+  size: 150, 144
+  orig: 560, 560
+  offset: 210, 125
+  index: 171
+murataA_Die
+  rotate: false
+  xy: 995, 661
+  size: 151, 144
+  orig: 560, 560
+  offset: 210, 125
+  index: 170
+murataA_Die
+  rotate: false
+  xy: 1148, 659
+  size: 149, 146
+  orig: 560, 560
+  offset: 211, 126
+  index: 168
+murataA_Die
+  rotate: false
+  xy: 1299, 656
+  size: 166, 145
+  orig: 560, 560
+  offset: 209, 128
+  index: 176
+murataA_Die
+  rotate: false
+  xy: 1646, 623
+  size: 149, 147
+  orig: 560, 560
+  offset: 211, 130
+  index: 167
+murataA_Die
+  rotate: false
+  xy: 2, 522
+  size: 170, 149
+  orig: 560, 560
+  offset: 209, 127
+  index: 177
+murataA_Die
+  rotate: false
+  xy: 822, 510
+  size: 146, 150
+  orig: 560, 560
+  offset: 213, 134
+  index: 166
+murataA_Die
+  rotate: false
+  xy: 1453, 478
+  size: 173, 153
+  orig: 560, 560
+  offset: 209, 126
+  index: 178
+murataA_Die
+  rotate: false
+  xy: 329, 356
+  size: 174, 156
+  orig: 560, 560
+  offset: 209, 125
+  index: 179
+murataA_Die
+  rotate: false
+  xy: 505, 354
+  size: 174, 157
+  orig: 560, 560
+  offset: 209, 125
+  index: 180
+murataA_Die
+  rotate: false
+  xy: 1272, 340
+  size: 144, 159
+  orig: 560, 560
+  offset: 214, 140
+  index: 165
+murataA_Die
+  rotate: false
+  xy: 599, 15
+  size: 141, 169
+  orig: 560, 560
+  offset: 215, 145
+  index: 164
+murataA_Idle
+  rotate: false
+  xy: 742, 10
+  size: 188, 169
+  orig: 560, 560
+  offset: 178, 134
+  index: 46
+murataA_Idle
+  rotate: false
+  xy: 1094, 2
+  size: 188, 169
+  orig: 560, 560
+  offset: 178, 134
+  index: 45
+murataA_Spawn
+  rotate: false
+  xy: 1418, 316
+  size: 142, 160
+  orig: 560, 560
+  offset: 189, 98
+  index: 10
+murataA_Spawn
+  rotate: false
+  xy: 1774, 302
+  size: 141, 161
+  orig: 560, 560
+  offset: 189, 97
+  index: 9
+murataA_Spawn
+  rotate: false
+  xy: 566, 186
+  size: 156, 163
+  orig: 560, 560
+  offset: 186, 101
+  index: 11
+murataA_Spawn
+  rotate: false
+  xy: 724, 186
+  size: 141, 163
+  orig: 560, 560
+  offset: 187, 95
+  index: 8
+murataA_Spawn
+  rotate: false
+  xy: 1223, 173
+  size: 142, 165
+  orig: 560, 560
+  offset: 185, 92
+  index: 7
+murataA_Spawn
+  rotate: false
+  xy: 1367, 148
+  size: 143, 166
+  orig: 560, 560
+  offset: 183, 89
+  index: 6
+murataA_Spawn
+  rotate: false
+  xy: 141, 23
+  size: 143, 168
+  orig: 560, 560
+  offset: 183, 86
+  index: 5
+murataA_Spawn
+  rotate: false
+  xy: 286, 19
+  size: 162, 169
+  orig: 560, 560
+  offset: 183, 107
+  index: 12
+murataA_Spawn
+  rotate: false
+  xy: 450, 15
+  size: 147, 169
+  orig: 560, 560
+  offset: 178, 83
+  index: 4
+murataA_Spawn
+  rotate: false
+  xy: 932, 8
+  size: 160, 169
+  orig: 560, 560
+  offset: 164, 81
+  index: 3
+murataB_Attack
+  rotate: false
+  xy: 2, 1509
+  size: 179, 135
+  orig: 560, 560
+  offset: 197, 140
+  index: 63
+murataB_Attack
+  rotate: false
+  xy: 365, 1505
+  size: 184, 135
+  orig: 560, 560
+  offset: 186, 138
+  index: 89
+murataB_Attack
+  rotate: false
+  xy: 551, 1504
+  size: 181, 135
+  orig: 560, 560
+  offset: 193, 139
+  index: 62
+murataB_Attack
+  rotate: false
+  xy: 734, 1502
+  size: 184, 135
+  orig: 560, 560
+  offset: 182, 140
+  index: 88
+murataB_Attack
+  rotate: false
+  xy: 2, 1370
+  size: 177, 137
+  orig: 560, 560
+  offset: 202, 141
+  index: 64
+murataB_Attack
+  rotate: false
+  xy: 181, 1369
+  size: 182, 136
+  orig: 560, 560
+  offset: 190, 138
+  index: 61
+murataB_Attack
+  rotate: false
+  xy: 1492, 1357
+  size: 174, 139
+  orig: 560, 560
+  offset: 207, 143
+  index: 65
+murataB_Attack
+  rotate: false
+  xy: 2, 1093
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 90
+murataB_Attack
+  rotate: false
+  xy: 2, 673
+  size: 172, 141
+  orig: 560, 560
+  offset: 212, 144
+  index: 66
+murataB_Attack
+  rotate: false
+  xy: 367, 666
+  size: 169, 143
+  orig: 560, 560
+  offset: 216, 144
+  index: 67
+murataB_Attack
+  rotate: false
+  xy: 174, 520
+  size: 169, 150
+  orig: 560, 560
+  offset: 216, 138
+  index: 68
+murataB_Attack
+  rotate: false
+  xy: 525, 513
+  size: 295, 148
+  orig: 560, 560
+  offset: 195, 145
+  index: 77
+murataB_Attack
+  rotate: false
+  xy: 1836, 465
+  size: 184, 155
+  orig: 560, 560
+  offset: 177, 141
+  index: 87
+murataB_Cast
+  rotate: false
+  xy: 868, 1639
+  size: 191, 133
+  orig: 560, 560
+  offset: 163, 138
+  index: 98
+murataB_Cast
+  rotate: false
+  xy: 1061, 1639
+  size: 184, 133
+  orig: 560, 560
+  offset: 165, 138
+  index: 97
+murataB_Cast
+  rotate: false
+  xy: 1429, 1637
+  size: 184, 134
+  orig: 560, 560
+  offset: 167, 138
+  index: 96
+murataB_Cast
+  rotate: false
+  xy: 365, 1367
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 120
+murataB_Hurt
+  rotate: false
+  xy: 365, 1367
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 150
+murataB_Cast
+  rotate: false
+  xy: 563, 1226
+  size: 184, 136
+  orig: 560, 560
+  offset: 172, 138
+  index: 95
+murataB_Cast
+  rotate: false
+  xy: 1854, 1188
+  size: 186, 136
+  orig: 560, 560
+  offset: 186, 138
+  index: 119
+murataB_Cast
+  rotate: false
+  xy: 563, 949
+  size: 182, 137
+  orig: 560, 560
+  offset: 180, 138
+  index: 94
+murataB_Cast
+  rotate: false
+  xy: 2, 816
+  size: 184, 137
+  orig: 560, 560
+  offset: 188, 138
+  index: 91
+murataB_Cast
+  rotate: false
+  xy: 1646, 772
+  size: 184, 138
+  orig: 560, 560
+  offset: 183, 138
+  index: 93
+murataB_Cast
+  rotate: false
+  xy: 1832, 771
+  size: 184, 138
+  orig: 560, 560
+  offset: 186, 138
+  index: 92
+murataB_Cast
+  rotate: false
+  xy: 176, 672
+  size: 189, 140
+  orig: 560, 560
+  offset: 184, 138
+  index: 118
+murataB_Cast
+  rotate: false
+  xy: 1628, 471
+  size: 206, 149
+  orig: 560, 560
+  offset: 161, 138
+  index: 99
+murataB_Cast
+  rotate: false
+  xy: 2, 200
+  size: 195, 161
+  orig: 560, 560
+  offset: 180, 138
+  index: 117
+murataB_Cast
+  rotate: false
+  xy: 1004, 179
+  size: 217, 164
+  orig: 560, 560
+  offset: 160, 138
+  index: 100
+murataB_Die
+  rotate: false
+  xy: 2, 1913
+  size: 162, 120
+  orig: 560, 560
+  offset: 198, 153
+  index: 154
+murataB_Die
+  rotate: false
+  xy: 166, 1910
+  size: 163, 123
+  orig: 560, 560
+  offset: 204, 152
+  index: 153
+murataB_Die
+  rotate: false
+  xy: 1733, 1905
+  size: 173, 128
+  orig: 560, 560
+  offset: 198, 147
+  index: 152
+murataB_Die
+  rotate: false
+  xy: 1908, 1872
+  size: 138, 161
+  orig: 560, 560
+  offset: 195, 104
+  index: 160
+murataB_Die
+  rotate: false
+  xy: 1884, 1738
+  size: 156, 132
+  orig: 560, 560
+  offset: 194, 145
+  index: 155
+murataB_Die
+  rotate: false
+  xy: 1247, 1638
+  size: 180, 133
+  orig: 560, 560
+  offset: 192, 141
+  index: 151
+murataB_Die
+  rotate: false
+  xy: 1494, 780
+  size: 150, 143
+  orig: 560, 560
+  offset: 192, 134
+  index: 156
+murataB_Die
+  rotate: false
+  xy: 1797, 622
+  size: 146, 147
+  orig: 560, 560
+  offset: 192, 126
+  index: 157
+murataB_Die
+  rotate: false
+  xy: 970, 508
+  size: 143, 151
+  orig: 560, 560
+  offset: 193, 119
+  index: 158
+murataB_Die
+  rotate: false
+  xy: 2, 364
+  size: 140, 156
+  orig: 560, 560
+  offset: 194, 112
+  index: 159
+murataB_Die
+  rotate: false
+  xy: 867, 181
+  size: 135, 165
+  orig: 560, 560
+  offset: 197, 97
+  index: 161
+murataB_Die
+  rotate: false
+  xy: 2, 30
+  size: 137, 168
+  orig: 560, 560
+  offset: 196, 89
+  index: 162
+murataB_Hurt
+  rotate: false
+  xy: 331, 1909
+  size: 173, 124
+  orig: 560, 560
+  offset: 202, 138
+  index: 140
+murataB_Hurt
+  rotate: false
+  xy: 506, 1908
+  size: 170, 125
+  orig: 560, 560
+  offset: 204, 138
+  index: 126
+murataB_Hurt
+  rotate: false
+  xy: 678, 1908
+  size: 172, 125
+  orig: 560, 560
+  offset: 203, 136
+  index: 139
+murataB_Hurt
+  rotate: false
+  xy: 852, 1908
+  size: 173, 125
+  orig: 560, 560
+  offset: 201, 138
+  index: 125
+murataB_Hurt
+  rotate: false
+  xy: 1027, 1907
+  size: 175, 126
+  orig: 560, 560
+  offset: 200, 138
+  index: 141
+murataB_Hurt
+  rotate: false
+  xy: 1204, 1907
+  size: 170, 126
+  orig: 560, 560
+  offset: 205, 134
+  index: 138
+murataB_Hurt
+  rotate: false
+  xy: 1376, 1906
+  size: 177, 127
+  orig: 560, 560
+  offset: 198, 138
+  index: 143
+murataB_Hurt
+  rotate: false
+  xy: 1555, 1906
+  size: 176, 127
+  orig: 560, 560
+  offset: 199, 138
+  index: 142
+murataB_Hurt
+  rotate: false
+  xy: 2, 1780
+  size: 174, 128
+  orig: 560, 560
+  offset: 199, 138
+  index: 124
+murataB_Hurt
+  rotate: false
+  xy: 178, 1779
+  size: 169, 128
+  orig: 560, 560
+  offset: 206, 133
+  index: 137
+murataB_Hurt
+  rotate: false
+  xy: 349, 1777
+  size: 168, 129
+  orig: 560, 560
+  offset: 206, 134
+  index: 127
+murataB_Hurt
+  rotate: false
+  xy: 519, 1776
+  size: 178, 130
+  orig: 560, 560
+  offset: 197, 138
+  index: 144
+murataB_Hurt
+  rotate: false
+  xy: 699, 1776
+  size: 167, 130
+  orig: 560, 560
+  offset: 207, 131
+  index: 136
+murataB_Hurt
+  rotate: false
+  xy: 868, 1775
+  size: 167, 130
+  orig: 560, 560
+  offset: 207, 131
+  index: 128
+murataB_Hurt
+  rotate: false
+  xy: 1037, 1774
+  size: 166, 131
+  orig: 560, 560
+  offset: 208, 129
+  index: 134
+murataB_Hurt
+  rotate: false
+  xy: 1205, 1774
+  size: 164, 131
+  orig: 560, 560
+  offset: 209, 128
+  index: 131
+murataB_Hurt
+  rotate: false
+  xy: 1371, 1773
+  size: 176, 131
+  orig: 560, 560
+  offset: 197, 138
+  index: 123
+murataB_Hurt
+  rotate: false
+  xy: 1549, 1773
+  size: 166, 131
+  orig: 560, 560
+  offset: 208, 129
+  index: 133
+murataB_Hurt
+  rotate: false
+  xy: 1717, 1772
+  size: 165, 131
+  orig: 560, 560
+  offset: 208, 129
+  index: 130
+murataB_Hurt
+  rotate: false
+  xy: 2, 1647
+  size: 166, 131
+  orig: 560, 560
+  offset: 208, 130
+  index: 135
+murataB_Hurt
+  rotate: false
+  xy: 170, 1646
+  size: 165, 131
+  orig: 560, 560
+  offset: 208, 128
+  index: 132
+murataB_Hurt
+  rotate: false
+  xy: 337, 1644
+  size: 165, 131
+  orig: 560, 560
+  offset: 208, 130
+  index: 129
+murataB_Hurt
+  rotate: false
+  xy: 504, 1642
+  size: 179, 132
+  orig: 560, 560
+  offset: 195, 138
+  index: 145
+murataB_Hurt
+  rotate: false
+  xy: 685, 1641
+  size: 181, 133
+  orig: 560, 560
+  offset: 193, 138
+  index: 146
+murataB_Hurt
+  rotate: false
+  xy: 1615, 1636
+  size: 182, 134
+  orig: 560, 560
+  offset: 191, 138
+  index: 147
+murataB_Hurt
+  rotate: false
+  xy: 1799, 1602
+  size: 178, 134
+  orig: 560, 560
+  offset: 195, 138
+  index: 122
+murataB_Hurt
+  rotate: false
+  xy: 183, 1507
+  size: 180, 135
+  orig: 560, 560
+  offset: 192, 138
+  index: 121
+murataB_Hurt
+  rotate: false
+  xy: 920, 1502
+  size: 183, 135
+  orig: 560, 560
+  offset: 190, 138
+  index: 148
+murataB_Hurt
+  rotate: false
+  xy: 1668, 1326
+  size: 183, 136
+  orig: 560, 560
+  offset: 189, 138
+  index: 149
+murataB_Idle
+  rotate: false
+  xy: 1105, 1500
+  size: 187, 136
+  orig: 560, 560
+  offset: 184, 138
+  index: 39
+murataB_Idle
+  rotate: false
+  xy: 1294, 1499
+  size: 187, 136
+  orig: 560, 560
+  offset: 184, 138
+  index: 52
+murataB_Idle
+  rotate: false
+  xy: 1669, 1464
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 31
+murataB_Idle
+  rotate: false
+  xy: 1855, 1464
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 44
+murataB_Idle
+  rotate: false
+  xy: 551, 1364
+  size: 185, 136
+  orig: 560, 560
+  offset: 186, 138
+  index: 57
+murataB_Idle
+  rotate: false
+  xy: 738, 1364
+  size: 186, 136
+  orig: 560, 560
+  offset: 185, 138
+  index: 36
+murataB_Idle
+  rotate: false
+  xy: 926, 1362
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 49
+murataB_Idle
+  rotate: false
+  xy: 1115, 1361
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 41
+murataB_Idle
+  rotate: false
+  xy: 1304, 1360
+  size: 186, 136
+  orig: 560, 560
+  offset: 185, 138
+  index: 54
+murataB_Idle
+  rotate: false
+  xy: 2, 1231
+  size: 184, 136
+  orig: 560, 560
+  offset: 187, 138
+  index: 33
+murataB_Idle
+  rotate: false
+  xy: 188, 1229
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 46
+murataB_Idle
+  rotate: false
+  xy: 377, 1226
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 59
+murataB_Idle
+  rotate: false
+  xy: 749, 1224
+  size: 186, 136
+  orig: 560, 560
+  offset: 185, 138
+  index: 38
+murataB_Idle
+  rotate: false
+  xy: 937, 1223
+  size: 188, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 51
+murataB_Idle
+  rotate: false
+  xy: 1127, 1222
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 43
+murataB_Idle
+  rotate: false
+  xy: 1316, 1219
+  size: 185, 136
+  orig: 560, 560
+  offset: 186, 138
+  index: 56
+murataB_Idle
+  rotate: false
+  xy: 188, 1091
+  size: 185, 136
+  orig: 560, 560
+  offset: 186, 138
+  index: 35
+murataB_Idle
+  rotate: false
+  xy: 375, 1088
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 48
+murataB_Idle
+  rotate: false
+  xy: 935, 1085
+  size: 187, 136
+  orig: 560, 560
+  offset: 184, 138
+  index: 40
+murataB_Idle
+  rotate: false
+  xy: 1124, 1084
+  size: 187, 136
+  orig: 560, 560
+  offset: 184, 138
+  index: 53
+murataB_Idle
+  rotate: false
+  xy: 1313, 1081
+  size: 185, 136
+  orig: 560, 560
+  offset: 187, 138
+  index: 32
+murataB_Idle
+  rotate: false
+  xy: 1660, 1050
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 45
+murataB_Idle
+  rotate: false
+  xy: 1849, 1050
+  size: 185, 136
+  orig: 560, 560
+  offset: 187, 138
+  index: 58
+murataB_Idle
+  rotate: false
+  xy: 188, 953
+  size: 185, 136
+  orig: 560, 560
+  offset: 186, 138
+  index: 34
+murataB_Idle
+  rotate: false
+  xy: 375, 950
+  size: 186, 136
+  orig: 560, 560
+  offset: 185, 138
+  index: 37
+murataB_Idle
+  rotate: false
+  xy: 747, 948
+  size: 186, 136
+  orig: 560, 560
+  offset: 185, 138
+  index: 55
+murataB_Idle
+  rotate: false
+  xy: 935, 947
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 50
+murataB_Idle
+  rotate: false
+  xy: 1124, 946
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 42
+murataB_Idle
+  rotate: false
+  xy: 1656, 912
+  size: 187, 136
+  orig: 560, 560
+  offset: 183, 138
+  index: 47
+murataB_Spawn
+  rotate: false
+  xy: 1483, 1498
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 27
+murataB_Spawn
+  rotate: false
+  xy: 1853, 1326
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 29
+murataB_Spawn
+  rotate: false
+  xy: 1668, 1188
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 18
+murataB_Spawn
+  rotate: false
+  xy: 564, 1088
+  size: 183, 136
+  orig: 560, 560
+  offset: 189, 138
+  index: 17
+murataB_Spawn
+  rotate: false
+  xy: 749, 1086
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 28
+murataB_Spawn
+  rotate: false
+  xy: 2, 955
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 30
+murataB_Idle
+  rotate: false
+  xy: 2, 955
+  size: 184, 136
+  orig: 560, 560
+  offset: 188, 138
+  index: 60
+murataB_Spawn
+  rotate: false
+  xy: 1313, 942
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 19
+murataB_Spawn
+  rotate: false
+  xy: 1845, 911
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 24
+murataB_Spawn
+  rotate: false
+  xy: 188, 814
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 26
+murataB_Spawn
+  rotate: false
+  xy: 375, 811
+  size: 186, 137
+  orig: 560, 560
+  offset: 186, 137
+  index: 21
+murataB_Spawn
+  rotate: false
+  xy: 563, 809
+  size: 180, 138
+  orig: 560, 560
+  offset: 191, 139
+  index: 16
+murataB_Spawn
+  rotate: false
+  xy: 745, 809
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 23
+murataB_Spawn
+  rotate: false
+  xy: 932, 808
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 20
+murataB_Spawn
+  rotate: false
+  xy: 1119, 807
+  size: 185, 137
+  orig: 560, 560
+  offset: 187, 137
+  index: 25
+murataB_Spawn
+  rotate: false
+  xy: 1306, 803
+  size: 186, 137
+  orig: 560, 560
+  offset: 186, 137
+  index: 22
+murataB_Spawn
+  rotate: false
+  xy: 1467, 633
+  size: 177, 145
+  orig: 560, 560
+  offset: 194, 138
+  index: 15
+murataB_Spawn
+  rotate: false
+  xy: 1278, 501
+  size: 173, 153
+  orig: 560, 560
+  offset: 197, 136
+  index: 14
+murataB_Spawn
+  rotate: false
+  xy: 199, 193
+  size: 168, 161
+  orig: 560, 560
+  offset: 200, 134
+  index: 13
+
+character_murata2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+murataA_Attack
+  rotate: false
+  xy: 745, 1143
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 90
+murataA_Attack
+  rotate: false
+  xy: 1485, 961
+  size: 183, 177
+  orig: 560, 560
+  offset: 176, 134
+  index: 61
+murataA_Attack
+  rotate: false
+  xy: 1855, 939
+  size: 183, 177
+  orig: 560, 560
+  offset: 179, 134
+  index: 89
+murataA_Attack
+  rotate: false
+  xy: 1107, 782
+  size: 184, 179
+  orig: 560, 560
+  offset: 187, 135
+  index: 87
+murataA_Attack
+  rotate: false
+  xy: 1378, 596
+  size: 184, 181
+  orig: 560, 560
+  offset: 183, 135
+  index: 88
+murataA_Attack
+  rotate: false
+  xy: 1691, 388
+  size: 181, 184
+  orig: 560, 560
+  offset: 175, 133
+  index: 62
+murataA_Attack
+  rotate: false
+  xy: 705, 229
+  size: 201, 186
+  orig: 560, 560
+  offset: 206, 100
+  index: 82
+murataA_Attack
+  rotate: false
+  xy: 1659, 2
+  size: 179, 194
+  orig: 560, 560
+  offset: 172, 131
+  index: 63
+murataA_Cast
+  rotate: false
+  xy: 1147, 1843
+  size: 212, 170
+  orig: 560, 560
+  offset: 181, 130
+  index: 106
+murataA_Cast
+  rotate: false
+  xy: 2, 1672
+  size: 212, 170
+  orig: 560, 560
+  offset: 180, 130
+  index: 105
+murataA_Cast
+  rotate: false
+  xy: 743, 1670
+  size: 212, 171
+  orig: 560, 560
+  offset: 182, 130
+  index: 107
+murataA_Cast
+  rotate: false
+  xy: 1524, 1670
+  size: 189, 171
+  orig: 560, 560
+  offset: 176, 133
+  index: 118
+murataA_Cast
+  rotate: false
+  xy: 191, 1497
+  size: 211, 172
+  orig: 560, 560
+  offset: 180, 130
+  index: 104
+murataA_Cast
+  rotate: false
+  xy: 781, 1496
+  size: 205, 172
+  orig: 560, 560
+  offset: 182, 130
+  index: 99
+murataA_Cast
+  rotate: false
+  xy: 755, 1320
+  size: 186, 174
+  orig: 560, 560
+  offset: 177, 134
+  index: 119
+murataA_Cast
+  rotate: false
+  xy: 1130, 1319
+  size: 211, 174
+  orig: 560, 560
+  offset: 183, 130
+  index: 108
+murataA_Cast
+  rotate: false
+  xy: 2, 1146
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 120
+murataA_Hurt
+  rotate: false
+  xy: 2, 1146
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 150
+murataA_Cast
+  rotate: false
+  xy: 1488, 1140
+  size: 218, 175
+  orig: 560, 560
+  offset: 171, 130
+  index: 100
+murataA_Cast
+  rotate: false
+  xy: 372, 966
+  size: 184, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 91
+murataA_Cast
+  rotate: false
+  xy: 930, 964
+  size: 185, 176
+  orig: 560, 560
+  offset: 178, 133
+  index: 92
+murataA_Cast
+  rotate: false
+  xy: 2, 788
+  size: 183, 178
+  orig: 560, 560
+  offset: 182, 132
+  index: 93
+murataA_Cast
+  rotate: false
+  xy: 1293, 781
+  size: 182, 179
+  orig: 560, 560
+  offset: 187, 131
+  index: 94
+murataA_Cast
+  rotate: false
+  xy: 1477, 779
+  size: 191, 180
+  orig: 560, 560
+  offset: 194, 130
+  index: 98
+murataA_Cast
+  rotate: false
+  xy: 2, 606
+  size: 210, 179
+  orig: 560, 560
+  offset: 183, 130
+  index: 109
+murataA_Cast
+  rotate: false
+  xy: 424, 604
+  size: 184, 180
+  orig: 560, 560
+  offset: 193, 130
+  index: 95
+murataA_Cast
+  rotate: false
+  xy: 1005, 599
+  size: 184, 181
+  orig: 560, 560
+  offset: 198, 130
+  index: 96
+murataA_Cast
+  rotate: false
+  xy: 1099, 414
+  size: 184, 182
+  orig: 560, 560
+  offset: 200, 130
+  index: 97
+murataA_Cast
+  rotate: false
+  xy: 1265, 224
+  size: 209, 186
+  orig: 560, 560
+  offset: 183, 130
+  index: 110
+murataA_Cast
+  rotate: false
+  xy: 329, 37
+  size: 217, 192
+  orig: 560, 560
+  offset: 172, 130
+  index: 101
+murataA_Cast
+  rotate: false
+  xy: 688, 35
+  size: 208, 192
+  orig: 560, 560
+  offset: 183, 130
+  index: 111
+murataA_Cast
+  rotate: false
+  xy: 1241, 28
+  size: 207, 194
+  orig: 560, 560
+  offset: 183, 130
+  index: 112
+murataA_Cast
+  rotate: false
+  xy: 1450, 20
+  size: 207, 194
+  orig: 560, 560
+  offset: 183, 130
+  index: 103
+murataA_Die
+  rotate: false
+  xy: 1893, 1488
+  size: 138, 178
+  orig: 560, 560
+  offset: 216, 149
+  index: 163
+murataA_Die
+  rotate: false
+  xy: 1883, 1118
+  size: 137, 184
+  orig: 560, 560
+  offset: 216, 153
+  index: 162
+murataA_Die
+  rotate: false
+  xy: 1304, 962
+  size: 179, 178
+  orig: 560, 560
+  offset: 177, 136
+  index: 151
+murataA_Die
+  rotate: false
+  xy: 2, 237
+  size: 173, 184
+  orig: 560, 560
+  offset: 178, 141
+  index: 152
+murataA_Die
+  rotate: false
+  xy: 386, 231
+  size: 136, 188
+  orig: 560, 560
+  offset: 216, 156
+  index: 161
+murataA_Die
+  rotate: false
+  xy: 548, 37
+  size: 138, 192
+  orig: 560, 560
+  offset: 216, 158
+  index: 160
+murataA_Die
+  rotate: false
+  xy: 1075, 29
+  size: 164, 193
+  orig: 560, 560
+  offset: 181, 147
+  index: 153
+murataA_Hurt
+  rotate: false
+  xy: 2, 968
+  size: 183, 176
+  orig: 560, 560
+  offset: 177, 134
+  index: 149
+murataA_Hurt
+  rotate: false
+  xy: 1670, 956
+  size: 183, 177
+  orig: 560, 560
+  offset: 176, 134
+  index: 148
+murataA_Hurt
+  rotate: false
+  xy: 560, 786
+  size: 180, 178
+  orig: 560, 560
+  offset: 177, 134
+  index: 121
+murataA_Hurt
+  rotate: false
+  xy: 742, 784
+  size: 182, 179
+  orig: 560, 560
+  offset: 176, 134
+  index: 147
+murataA_Hurt
+  rotate: false
+  xy: 554, 418
+  size: 180, 182
+  orig: 560, 560
+  offset: 175, 134
+  index: 146
+murataA_Hurt
+  rotate: false
+  xy: 919, 415
+  size: 178, 182
+  orig: 560, 560
+  offset: 176, 134
+  index: 122
+murataA_Hurt
+  rotate: false
+  xy: 524, 231
+  size: 179, 185
+  orig: 560, 560
+  offset: 175, 134
+  index: 145
+murataA_Hurt
+  rotate: false
+  xy: 908, 226
+  size: 175, 187
+  orig: 560, 560
+  offset: 176, 134
+  index: 123
+murataA_Hurt
+  rotate: false
+  xy: 1085, 224
+  size: 178, 188
+  orig: 560, 560
+  offset: 174, 134
+  index: 144
+murataA_Hurt
+  rotate: false
+  xy: 150, 41
+  size: 177, 191
+  orig: 560, 560
+  offset: 174, 134
+  index: 143
+murataA_Hurt
+  rotate: false
+  xy: 898, 32
+  size: 175, 192
+  orig: 560, 560
+  offset: 175, 134
+  index: 124
+murataA_Hurt
+  rotate: false
+  xy: 1840, 2
+  size: 176, 194
+  orig: 560, 560
+  offset: 174, 134
+  index: 142
+murataA_Idle
+  rotate: false
+  xy: 167, 1844
+  size: 188, 169
+  orig: 560, 560
+  offset: 178, 134
+  index: 47
+murataA_Idle
+  rotate: false
+  xy: 357, 1843
+  size: 188, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 44
+murataA_Idle
+  rotate: false
+  xy: 547, 1843
+  size: 188, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 49
+murataA_Idle
+  rotate: false
+  xy: 957, 1843
+  size: 188, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 43
+murataA_Idle
+  rotate: false
+  xy: 1361, 1843
+  size: 188, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 48
+murataA_Idle
+  rotate: false
+  xy: 1551, 1843
+  size: 188, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 50
+murataA_Idle
+  rotate: false
+  xy: 1741, 1843
+  size: 187, 170
+  orig: 560, 560
+  offset: 178, 134
+  index: 42
+murataA_Idle
+  rotate: false
+  xy: 957, 1670
+  size: 187, 171
+  orig: 560, 560
+  offset: 178, 134
+  index: 41
+murataA_Idle
+  rotate: false
+  xy: 1146, 1670
+  size: 187, 171
+  orig: 560, 560
+  offset: 178, 134
+  index: 51
+murataA_Idle
+  rotate: false
+  xy: 1335, 1670
+  size: 187, 171
+  orig: 560, 560
+  offset: 178, 134
+  index: 40
+murataA_Idle
+  rotate: false
+  xy: 1715, 1669
+  size: 187, 172
+  orig: 560, 560
+  offset: 178, 134
+  index: 52
+murataA_Idle
+  rotate: false
+  xy: 2, 1498
+  size: 187, 172
+  orig: 560, 560
+  offset: 178, 134
+  index: 39
+murataA_Idle
+  rotate: false
+  xy: 404, 1496
+  size: 186, 172
+  orig: 560, 560
+  offset: 178, 134
+  index: 38
+murataA_Idle
+  rotate: false
+  xy: 592, 1496
+  size: 187, 172
+  orig: 560, 560
+  offset: 178, 134
+  index: 53
+murataA_Idle
+  rotate: false
+  xy: 988, 1495
+  size: 185, 173
+  orig: 560, 560
+  offset: 178, 134
+  index: 36
+murataA_Idle
+  rotate: false
+  xy: 1175, 1495
+  size: 186, 173
+  orig: 560, 560
+  offset: 178, 134
+  index: 54
+murataA_Idle
+  rotate: false
+  xy: 2, 1323
+  size: 186, 173
+  orig: 560, 560
+  offset: 178, 134
+  index: 37
+murataA_Idle
+  rotate: false
+  xy: 190, 1322
+  size: 187, 173
+  orig: 560, 560
+  offset: 177, 134
+  index: 55
+murataA_Idle
+  rotate: false
+  xy: 379, 1320
+  size: 186, 174
+  orig: 560, 560
+  offset: 177, 134
+  index: 57
+murataA_Idle
+  rotate: false
+  xy: 567, 1320
+  size: 186, 174
+  orig: 560, 560
+  offset: 177, 134
+  index: 56
+murataA_Idle
+  rotate: false
+  xy: 943, 1319
+  size: 185, 174
+  orig: 560, 560
+  offset: 178, 134
+  index: 35
+murataA_Idle
+  rotate: false
+  xy: 1343, 1319
+  size: 185, 174
+  orig: 560, 560
+  offset: 177, 134
+  index: 34
+murataA_Idle
+  rotate: false
+  xy: 1530, 1317
+  size: 184, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 31
+murataA_Idle
+  rotate: false
+  xy: 372, 1143
+  size: 185, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 33
+murataA_Idle
+  rotate: false
+  xy: 559, 1143
+  size: 184, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 59
+murataA_Idle
+  rotate: false
+  xy: 1115, 1142
+  size: 184, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 32
+murataA_Idle
+  rotate: false
+  xy: 1301, 1142
+  size: 185, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 58
+murataA_Spawn
+  rotate: false
+  xy: 357, 1671
+  size: 171, 170
+  orig: 560, 560
+  offset: 153, 79
+  index: 2
+murataA_Spawn
+  rotate: false
+  xy: 1363, 1495
+  size: 177, 173
+  orig: 560, 560
+  offset: 147, 77
+  index: 1
+murataA_Spawn
+  rotate: false
+  xy: 1712, 1494
+  size: 179, 173
+  orig: 560, 560
+  offset: 145, 77
+  index: 0
+murataA_Spawn
+  rotate: false
+  xy: 1716, 1316
+  size: 167, 176
+  orig: 560, 560
+  offset: 181, 114
+  index: 13
+murataA_Spawn
+  rotate: false
+  xy: 187, 1145
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 30
+murataA_Idle
+  rotate: false
+  xy: 187, 1145
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 60
+murataA_Spawn
+  rotate: false
+  xy: 930, 1142
+  size: 183, 175
+  orig: 560, 560
+  offset: 177, 134
+  index: 29
+murataA_Spawn
+  rotate: false
+  xy: 1708, 1135
+  size: 173, 179
+  orig: 560, 560
+  offset: 179, 121
+  index: 14
+murataA_Spawn
+  rotate: false
+  xy: 558, 966
+  size: 184, 175
+  orig: 560, 560
+  offset: 177, 135
+  index: 28
+murataA_Spawn
+  rotate: false
+  xy: 744, 965
+  size: 184, 176
+  orig: 560, 560
+  offset: 177, 135
+  index: 27
+murataA_Spawn
+  rotate: false
+  xy: 1117, 963
+  size: 185, 177
+  orig: 560, 560
+  offset: 177, 136
+  index: 25
+murataA_Spawn
+  rotate: false
+  xy: 187, 787
+  size: 184, 177
+  orig: 560, 560
+  offset: 177, 135
+  index: 26
+murataA_Spawn
+  rotate: false
+  xy: 373, 786
+  size: 185, 178
+  orig: 560, 560
+  offset: 177, 136
+  index: 24
+murataA_Spawn
+  rotate: false
+  xy: 1849, 757
+  size: 185, 180
+  orig: 560, 560
+  offset: 177, 136
+  index: 22
+murataA_Spawn
+  rotate: false
+  xy: 818, 601
+  size: 185, 180
+  orig: 560, 560
+  offset: 177, 136
+  index: 23
+murataA_Spawn
+  rotate: false
+  xy: 1191, 598
+  size: 185, 181
+  orig: 560, 560
+  offset: 177, 136
+  index: 20
+murataA_Spawn
+  rotate: false
+  xy: 1564, 590
+  size: 183, 181
+  orig: 560, 560
+  offset: 177, 134
+  index: 17
+murataA_Spawn
+  rotate: false
+  xy: 1749, 574
+  size: 185, 181
+  orig: 560, 560
+  offset: 177, 136
+  index: 19
+murataA_Spawn
+  rotate: false
+  xy: 2, 423
+  size: 185, 181
+  orig: 560, 560
+  offset: 177, 136
+  index: 21
+murataA_Spawn
+  rotate: false
+  xy: 189, 421
+  size: 184, 181
+  orig: 560, 560
+  offset: 177, 135
+  index: 18
+murataA_Spawn
+  rotate: false
+  xy: 375, 421
+  size: 177, 181
+  orig: 560, 560
+  offset: 178, 126
+  index: 15
+murataA_Spawn
+  rotate: false
+  xy: 736, 417
+  size: 181, 182
+  orig: 560, 560
+  offset: 177, 130
+  index: 16
+murataB_Attack
+  rotate: false
+  xy: 1542, 1494
+  size: 168, 174
+  orig: 560, 560
+  offset: 215, 115
+  index: 69
+murataB_Attack
+  rotate: false
+  xy: 187, 967
+  size: 183, 176
+  orig: 560, 560
+  offset: 162, 125
+  index: 79
+murataB_Attack
+  rotate: false
+  xy: 214, 604
+  size: 208, 180
+  orig: 560, 560
+  offset: 136, 119
+  index: 81
+murataB_Attack
+  rotate: false
+  xy: 610, 602
+  size: 206, 180
+  orig: 560, 560
+  offset: 138, 121
+  index: 80
+murataB_Attack
+  rotate: false
+  xy: 1487, 406
+  size: 202, 182
+  orig: 560, 560
+  offset: 141, 115
+  index: 82
+murataB_Attack
+  rotate: false
+  xy: 1476, 216
+  size: 184, 188
+  orig: 560, 560
+  offset: 171, 142
+  index: 86
+murataB_Cast
+  rotate: false
+  xy: 737, 1843
+  size: 218, 170
+  orig: 560, 560
+  offset: 159, 138
+  index: 101
+murataB_Cast
+  rotate: false
+  xy: 530, 1670
+  size: 211, 171
+  orig: 560, 560
+  offset: 159, 138
+  index: 102
+murataB_Cast
+  rotate: false
+  xy: 1285, 412
+  size: 200, 182
+  orig: 560, 560
+  offset: 177, 138
+  index: 116
+murataB_Cast
+  rotate: false
+  xy: 177, 234
+  size: 207, 185
+  orig: 560, 560
+  offset: 159, 138
+  index: 112
+murataB_Cast
+  rotate: false
+  xy: 177, 234
+  size: 207, 185
+  orig: 560, 560
+  offset: 159, 138
+  index: 103
+murataB_Cast
+  rotate: false
+  xy: 1662, 198
+  size: 208, 188
+  orig: 560, 560
+  offset: 158, 138
+  index: 111
+murataB_Die
+  rotate: false
+  xy: 216, 1671
+  size: 139, 171
+  orig: 560, 560
+  offset: 194, 81
+  index: 163
+murataB_Die
+  rotate: false
+  xy: 1904, 1668
+  size: 142, 173
+  orig: 560, 560
+  offset: 192, 71
+  index: 164
+murataB_Die
+  rotate: false
+  xy: 1885, 1304
+  size: 144, 182
+  orig: 560, 560
+  offset: 191, 53
+  index: 165
+murataB_Die
+  rotate: false
+  xy: 2, 43
+  size: 146, 192
+  orig: 560, 560
+  offset: 190, 36
+  index: 166
+murataB_Spawn
+  rotate: false
+  xy: 2, 1844
+  size: 163, 169
+  orig: 560, 560
+  offset: 203, 131
+  index: 12
+murataB_Spawn
+  rotate: false
+  xy: 926, 783
+  size: 179, 179
+  orig: 560, 560
+  offset: 225, 138
+  index: 0
+murataB_Spawn
+  rotate: false
+  xy: 1670, 773
+  size: 177, 181
+  orig: 560, 560
+  offset: 225, 138
+  index: 1
+murataB_Spawn
+  rotate: false
+  xy: 1874, 388
+  size: 156, 184
+  orig: 560, 560
+  offset: 207, 129
+  index: 11
+murataB_Spawn
+  rotate: false
+  xy: 1872, 198
+  size: 170, 188
+  orig: 560, 560
+  offset: 225, 137
+  index: 2
+
+character_murata3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+murataA_Attack
+  rotate: false
+  xy: 2, 1822
+  size: 207, 224
+  orig: 560, 560
+  offset: 204, 74
+  index: 80
+murataA_Attack
+  rotate: false
+  xy: 2, 1590
+  size: 199, 230
+  orig: 560, 560
+  offset: 127, 93
+  index: 76
+murataA_Attack
+  rotate: false
+  xy: 852, 1834
+  size: 208, 212
+  orig: 560, 560
+  offset: 205, 83
+  index: 81
+murataA_Attack
+  rotate: false
+  xy: 2, 647
+  size: 169, 232
+  orig: 560, 560
+  offset: 164, 112
+  index: 68
+murataA_Attack
+  rotate: false
+  xy: 2, 414
+  size: 168, 231
+  orig: 560, 560
+  offset: 164, 116
+  index: 67
+murataA_Attack
+  rotate: false
+  xy: 2, 183
+  size: 168, 229
+  orig: 560, 560
+  offset: 166, 109
+  index: 69
+murataA_Attack
+  rotate: false
+  xy: 164, 888
+  size: 145, 240
+  orig: 560, 560
+  offset: 186, 101
+  index: 75
+murataA_Attack
+  rotate: false
+  xy: 172, 180
+  size: 165, 225
+  orig: 560, 560
+  offset: 169, 106
+  index: 70
+murataA_Attack
+  rotate: false
+  xy: 339, 206
+  size: 172, 226
+  orig: 560, 560
+  offset: 165, 120
+  index: 66
+murataA_Attack
+  rotate: false
+  xy: 480, 687
+  size: 161, 222
+  orig: 560, 560
+  offset: 173, 103
+  index: 71
+murataA_Attack
+  rotate: false
+  xy: 513, 241
+  size: 183, 221
+  orig: 560, 560
+  offset: 204, 65
+  index: 79
+murataA_Attack
+  rotate: false
+  xy: 356, 1611
+  size: 150, 220
+  orig: 560, 560
+  offset: 183, 101
+  index: 74
+murataA_Attack
+  rotate: false
+  xy: 1099, 1619
+  size: 174, 218
+  orig: 560, 560
+  offset: 167, 124
+  index: 65
+murataA_Attack
+  rotate: false
+  xy: 1275, 1619
+  size: 156, 218
+  orig: 560, 560
+  offset: 178, 102
+  index: 72
+murataA_Attack
+  rotate: false
+  xy: 1433, 1620
+  size: 149, 218
+  orig: 560, 560
+  offset: 184, 101
+  index: 73
+murataA_Attack
+  rotate: false
+  xy: 513, 31
+  size: 188, 208
+  orig: 560, 560
+  offset: 199, 73
+  index: 78
+murataA_Attack
+  rotate: false
+  xy: 886, 1417
+  size: 176, 206
+  orig: 560, 560
+  offset: 170, 128
+  index: 64
+murataA_Cast
+  rotate: false
+  xy: 1489, 1842
+  size: 211, 204
+  orig: 560, 560
+  offset: 179, 130
+  index: 102
+murataA_Die
+  rotate: false
+  xy: 339, 2
+  size: 161, 202
+  orig: 560, 560
+  offset: 189, 151
+  index: 154
+murataA_Die
+  rotate: false
+  xy: 356, 1401
+  size: 150, 208
+  orig: 560, 560
+  offset: 206, 157
+  index: 156
+murataA_Die
+  rotate: false
+  xy: 717, 1229
+  size: 140, 197
+  orig: 560, 560
+  offset: 215, 159
+  index: 159
+murataA_Die
+  rotate: false
+  xy: 1531, 1201
+  size: 156, 207
+  orig: 560, 560
+  offset: 199, 155
+  index: 155
+murataA_Die
+  rotate: false
+  xy: 1630, 994
+  size: 146, 205
+  orig: 560, 560
+  offset: 210, 158
+  index: 157
+murataA_Die
+  rotate: false
+  xy: 841, 389
+  size: 143, 201
+  orig: 560, 560
+  offset: 213, 159
+  index: 158
+murataA_Hurt
+  rotate: false
+  xy: 931, 1625
+  size: 166, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 134
+murataA_Hurt
+  rotate: false
+  xy: 859, 1218
+  size: 175, 197
+  orig: 560, 560
+  offset: 174, 134
+  index: 141
+murataA_Hurt
+  rotate: false
+  xy: 1036, 1213
+  size: 173, 197
+  orig: 560, 560
+  offset: 175, 134
+  index: 125
+murataA_Hurt
+  rotate: false
+  xy: 798, 1013
+  size: 172, 203
+  orig: 560, 560
+  offset: 174, 133
+  index: 139
+murataA_Hurt
+  rotate: false
+  xy: 972, 1012
+  size: 173, 199
+  orig: 560, 560
+  offset: 174, 134
+  index: 140
+murataA_Hurt
+  rotate: false
+  xy: 1147, 994
+  size: 170, 201
+  orig: 560, 560
+  offset: 175, 134
+  index: 126
+murataA_Hurt
+  rotate: false
+  xy: 805, 804
+  size: 165, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 133
+murataA_Hurt
+  rotate: false
+  xy: 972, 806
+  size: 170, 204
+  orig: 560, 560
+  offset: 174, 133
+  index: 138
+murataA_Hurt
+  rotate: false
+  xy: 1144, 787
+  size: 169, 205
+  orig: 560, 560
+  offset: 174, 133
+  index: 137
+murataA_Hurt
+  rotate: false
+  xy: 1319, 989
+  size: 165, 206
+  orig: 560, 560
+  offset: 175, 133
+  index: 131
+murataA_Hurt
+  rotate: false
+  xy: 1315, 782
+  size: 168, 205
+  orig: 560, 560
+  offset: 175, 133
+  index: 127
+murataA_Hurt
+  rotate: false
+  xy: 972, 598
+  size: 167, 206
+  orig: 560, 560
+  offset: 174, 133
+  index: 136
+murataA_Hurt
+  rotate: false
+  xy: 1141, 579
+  size: 167, 206
+  orig: 560, 560
+  offset: 175, 133
+  index: 128
+murataA_Hurt
+  rotate: false
+  xy: 1310, 573
+  size: 166, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 135
+murataA_Hurt
+  rotate: false
+  xy: 1417, 1410
+  size: 165, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 130
+murataA_Hurt
+  rotate: false
+  xy: 1584, 1422
+  size: 166, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 129
+murataA_Hurt
+  rotate: false
+  xy: 1752, 1422
+  size: 165, 207
+  orig: 560, 560
+  offset: 175, 133
+  index: 132
+murataB_Attack
+  rotate: false
+  xy: 2, 1361
+  size: 188, 227
+  orig: 560, 560
+  offset: 162, 146
+  index: 78
+murataB_Attack
+  rotate: false
+  xy: 2, 1130
+  size: 178, 229
+  orig: 560, 560
+  offset: 170, 134
+  index: 85
+murataB_Attack
+  rotate: false
+  xy: 2, 881
+  size: 160, 247
+  orig: 560, 560
+  offset: 178, 119
+  index: 84
+murataB_Attack
+  rotate: false
+  xy: 173, 646
+  size: 149, 240
+  orig: 560, 560
+  offset: 216, 41
+  index: 74
+murataB_Attack
+  rotate: false
+  xy: 172, 407
+  size: 150, 237
+  orig: 560, 560
+  offset: 215, 46
+  index: 73
+murataB_Attack
+  rotate: false
+  xy: 182, 1130
+  size: 155, 229
+  orig: 560, 560
+  offset: 215, 56
+  index: 72
+murataB_Attack
+  rotate: false
+  xy: 311, 892
+  size: 145, 236
+  orig: 560, 560
+  offset: 218, 44
+  index: 75
+murataB_Attack
+  rotate: false
+  xy: 489, 464
+  size: 177, 221
+  orig: 560, 560
+  offset: 164, 113
+  index: 83
+murataB_Attack
+  rotate: false
+  xy: 1584, 1631
+  size: 199, 209
+  orig: 560, 560
+  offset: 223, 76
+  index: 76
+murataB_Attack
+  rotate: false
+  xy: 719, 1428
+  size: 165, 198
+  orig: 560, 560
+  offset: 215, 91
+  index: 70
+murataB_Attack
+  rotate: false
+  xy: 643, 793
+  size: 160, 216
+  orig: 560, 560
+  offset: 215, 71
+  index: 71
+murataB_Cast
+  rotate: false
+  xy: 211, 1833
+  size: 212, 213
+  orig: 560, 560
+  offset: 155, 137
+  index: 107
+murataB_Cast
+  rotate: false
+  xy: 425, 1835
+  size: 212, 211
+  orig: 560, 560
+  offset: 156, 137
+  index: 106
+murataB_Cast
+  rotate: false
+  xy: 639, 1834
+  size: 211, 212
+  orig: 560, 560
+  offset: 155, 137
+  index: 108
+murataB_Cast
+  rotate: false
+  xy: 1062, 1839
+  size: 212, 207
+  orig: 560, 560
+  offset: 157, 138
+  index: 105
+murataB_Cast
+  rotate: false
+  xy: 1276, 1840
+  size: 211, 206
+  orig: 560, 560
+  offset: 155, 137
+  index: 109
+murataB_Cast
+  rotate: false
+  xy: 1702, 1842
+  size: 211, 204
+  orig: 560, 560
+  offset: 158, 138
+  index: 104
+murataB_Cast
+  rotate: false
+  xy: 508, 1628
+  size: 210, 204
+  orig: 560, 560
+  offset: 164, 138
+  index: 114
+murataB_Cast
+  rotate: false
+  xy: 720, 1629
+  size: 209, 203
+  orig: 560, 560
+  offset: 160, 138
+  index: 113
+murataB_Cast
+  rotate: false
+  xy: 508, 1428
+  size: 209, 198
+  orig: 560, 560
+  offset: 157, 137
+  index: 110
+murataB_Cast
+  rotate: false
+  xy: 508, 1229
+  size: 207, 197
+  orig: 560, 560
+  offset: 170, 138
+  index: 115
+murataB_Die
+  rotate: false
+  xy: 192, 1361
+  size: 159, 227
+  orig: 560, 560
+  offset: 180, 6
+  index: 174
+murataB_Die
+  rotate: false
+  xy: 324, 663
+  size: 154, 227
+  orig: 560, 560
+  offset: 185, 5
+  index: 173
+murataB_Die
+  rotate: false
+  xy: 324, 434
+  size: 163, 227
+  orig: 560, 560
+  offset: 176, 6
+  index: 175
+murataB_Die
+  rotate: false
+  xy: 339, 1135
+  size: 150, 224
+  orig: 560, 560
+  offset: 189, 6
+  index: 172
+murataB_Die
+  rotate: false
+  xy: 458, 911
+  size: 166, 222
+  orig: 560, 560
+  offset: 174, 7
+  index: 176
+murataB_Die
+  rotate: false
+  xy: 203, 1600
+  size: 151, 220
+  orig: 560, 560
+  offset: 188, 6
+  index: 171
+murataB_Die
+  rotate: false
+  xy: 626, 1011
+  size: 170, 216
+  orig: 560, 560
+  offset: 170, 8
+  index: 177
+murataB_Die
+  rotate: false
+  xy: 1064, 1412
+  size: 175, 205
+  orig: 560, 560
+  offset: 165, 9
+  index: 180
+murataB_Die
+  rotate: false
+  xy: 1241, 1410
+  size: 174, 207
+  orig: 560, 560
+  offset: 166, 9
+  index: 179
+murataB_Die
+  rotate: false
+  xy: 1211, 1197
+  size: 173, 211
+  orig: 560, 560
+  offset: 167, 8
+  index: 178
+murataB_Die
+  rotate: false
+  xy: 668, 576
+  size: 150, 215
+  orig: 560, 560
+  offset: 188, 7
+  index: 170
+murataB_Die
+  rotate: false
+  xy: 820, 592
+  size: 150, 210
+  orig: 560, 560
+  offset: 188, 9
+  index: 169
+murataB_Die
+  rotate: false
+  xy: 1852, 1215
+  size: 150, 205
+  orig: 560, 560
+  offset: 188, 13
+  index: 168
+murataB_Die
+  rotate: false
+  xy: 986, 398
+  size: 148, 198
+  orig: 560, 560
+  offset: 189, 23
+  index: 167
+murataB_Spawn
+  rotate: false
+  xy: 1785, 1631
+  size: 143, 209
+  orig: 560, 560
+  offset: 222, 133
+  index: 6
+murataB_Spawn
+  rotate: false
+  xy: 1386, 1200
+  size: 143, 208
+  orig: 560, 560
+  offset: 223, 134
+  index: 5
+murataB_Spawn
+  rotate: false
+  xy: 1689, 1225
+  size: 161, 195
+  orig: 560, 560
+  offset: 224, 137
+  index: 3
+murataB_Spawn
+  rotate: false
+  xy: 1486, 991
+  size: 142, 207
+  orig: 560, 560
+  offset: 221, 132
+  index: 7
+murataB_Spawn
+  rotate: false
+  xy: 1778, 1010
+  size: 147, 203
+  orig: 560, 560
+  offset: 224, 135
+  index: 4
+murataB_Spawn
+  rotate: false
+  xy: 698, 371
+  size: 141, 203
+  orig: 560, 560
+  offset: 220, 131
+  index: 8
+murataB_Spawn
+  rotate: false
+  xy: 1136, 382
+  size: 143, 195
+  orig: 560, 560
+  offset: 217, 129
+  index: 10
+murataB_Spawn
+  rotate: false
+  xy: 1281, 373
+  size: 141, 198
+  orig: 560, 560
+  offset: 219, 130
+  index: 9

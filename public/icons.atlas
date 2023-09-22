@@ -1,0 +1,181 @@
+
+icons.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+icon_skill_card
+  rotate: false
+  xy: 0, 0
+  size: 394, 396
+  orig: 394, 396
+  offset: 0, 0
+  index: -1
+icon_shop
+  rotate: false
+  xy: 414, 0
+  size: 388, 365
+  orig: 388, 365
+  offset: 0, 0
+  index: -1
+icon_setting
+  rotate: false
+  xy: 0, 416
+  size: 384, 390
+  orig: 384, 390
+  offset: 0, 0
+  index: -1
+icon_seasonpass
+  rotate: false
+  xy: 822, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+icon_seasonpass-2
+  rotate: false
+  xy: 822, 231
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+icon_reward
+  rotate: false
+  xy: 0, 826
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+icon_rank
+  rotate: false
+  xy: 404, 478
+  size: 422, 384
+  orig: 422, 384
+  offset: 0, 0
+  index: -1
+icon_quest
+  rotate: false
+  xy: 121, 826
+  size: 210, 167
+  orig: 210, 167
+  offset: 0, 0
+  index: -1
+icon_pp
+  rotate: false
+  xy: 846, 478
+  size: 159, 181
+  orig: 159, 181
+  offset: 0, 0
+  index: -1
+icon_misc
+  rotate: false
+  xy: 1042, 0
+  size: 363, 364
+  orig: 363, 364
+  offset: 0, 0
+  index: -1
+icon_lootboxes
+  rotate: false
+  xy: 1425, 0
+  size: 366, 291
+  orig: 366, 291
+  offset: 0, 0
+  index: -1
+icon_lock
+  rotate: false
+  xy: 0, 932
+  size: 84, 105
+  orig: 88, 109
+  offset: 2, 2
+  index: -1
+icon_leaderboard
+  rotate: false
+  xy: 1811, 0
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+icon_journey
+  rotate: false
+  xy: 1811, 96
+  size: 155, 114
+  orig: 155, 114
+  offset: 0, 0
+  index: -1
+icon_inventory
+  rotate: false
+  xy: 1425, 311
+  size: 320, 367
+  orig: 320, 367
+  offset: 0, 0
+  index: -1
+icon_hero
+  rotate: false
+  xy: 1040, 384
+  size: 306, 418
+  orig: 306, 418
+  offset: 0, 0
+  index: -1
+icon_gold
+  rotate: false
+  xy: 846, 679
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+icon_energy
+  rotate: false
+  xy: 1811, 230
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: 2
+icon_daily
+  rotate: false
+  xy: 1765, 353
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+icon_cup
+  rotate: false
+  xy: 1765, 483
+  size: 176, 126
+  orig: 176, 126
+  offset: 0, 0
+  index: -1
+icon_combat
+  rotate: false
+  xy: 1366, 698
+  size: 314, 326
+  orig: 314, 326
+  offset: 0, 0
+  index: -1
+icon_checkmark
+  rotate: false
+  xy: 1909, 353
+  size: 126, 108
+  orig: 130, 112
+  offset: 2, 2
+  index: -1
+icon_challenger_point
+  rotate: false
+  xy: 1765, 629
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+icon_boss
+  rotate: false
+  xy: 1700, 764
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+icon_XP
+  rotate: false
+  xy: 1948, 629
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
