@@ -3,6 +3,12 @@
 // import App from './App.tsx'
 // import './index.css'
 
+// ReactDOM.createRoot(document.getElementById('root')!).render(
+//   <React.StrictMode>
+//     <App />
+//   </React.StrictMode>,
+// )
+
 import {
   PolygonBatch,
   TextureAtlas,
@@ -15,12 +21,6 @@ import { GdxtsReactRenderer } from "gdxts-ui-react";
 import { UI } from "./ui/UI";
 import { ViewportProvider } from "./ui/useViewport";
 import { loadTTF } from "./util/fontUtil";
-
-// ReactDOM.createRoot(document.getElementById('root')!).render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-// )
 
 const SHOW_MEMORY = false;
 
